@@ -1,6 +1,6 @@
 Run main (python27) to launch the application.
 
-Make sure to have latest chrome browser installed.
+Make sure to have latest version of firefox/chrome browser and corresponding Selenium's driver installed.
 
 Select the site to find jobs from.
 
