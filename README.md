@@ -1,4 +1,4 @@
-Run main.exe to launch the application.
+Run main (python27) to launch the application.
 
 Make sure to have latest chrome browser installed.
 
