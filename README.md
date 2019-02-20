@@ -6,9 +6,9 @@ Select the site to find jobs from.
 
 The relevant parameters are available for user to enter in a GUI window. The parameters are the following:
 
-	- Keyword: Enter a valid keyword(one) in this field to search for relevant jobs.
+	- Keyword: Enter a valid keyword in this field to search for relevant jobs.
 
-	- Location: Enter valid location(which the website accepts) in this field.
+	- Location: Enter valid location in this field.
 
 	- Date Posted: (case insensitive)
 
